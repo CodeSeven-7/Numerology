@@ -1,8 +1,9 @@
 # This program adds together Birthday numbers provided by the user to determine his Life Path Number.
 # The descriptions are written by Felicia Bender and come from www.astrostyle.com
 
-print("Hello :)")
-print("In order to calculate your Life Path Number please answer the following questions:")
+print('Finding Meaning In Numbers')
+print("Numerology can be used to help us to better understand the world and ourselves as individuals where you can discover insights about your purpose and personality traits.")
+print("Would you like to know your Life Path Number?")
 
 # Store input numbers
 year = input("Enter your Birth Year:")
@@ -19,8 +20,6 @@ a = sum(digits)
 b = [int(x) for x in str(a)]
 
 number = sum(b)
-
-# Display the sum
 
 print("Your Number is: ")
 print(number)
@@ -61,7 +60,7 @@ elif number == 3 or number == 30:
 elif number == 4 or number == 40:
     print("")
 elif number == 5 or number == 50:
-    print("""5 Life Path: The Freedom Seeker
+    print(""" 5 Life Path: The Freedom Seeker
           As a 5 Life Path, your purpose is to develop fearlessness, adventurousness, resilience, and the constructive use of freedom.
           These themes will be reoccurring issues throughout your life, as your Life Path number indicates what you’re evolving into, developing, aspiring toward, and learning about.
           While you’ll display innate gifts and talents in these areas, you’ll also experience some challenging lessons that will guide you towards mastering your life’s purpose.
@@ -87,7 +86,32 @@ elif number == 5 or number == 50:
 elif number == 6 or number == 60:
     print("")
 elif number == 7 or number == 70:
-    print("")
+    print(""" 7 Life Path: The Seeker
+          As a 7 Life Path, your purpose is to develop your intuition, spirituality, trust, and openness, balanced against your desire for data-driven analysis
+          These themes will be reoccurring issues throughout your life, as your Life Path number indicates what you’re evolving into, developing, aspiring toward, and learning about.
+          While you’ll display innate gifts and talents in these areas, you’ll also experience some challenging lessons that will guide you towards mastering your life’s purpose.
+
+          Can you accept that you’re both an intellectual and a psychic?
+          As a 7, you’re always seeking answers to life’s big (and small) questions.
+          You live mostly in your head and tend to over-intellectualize everything.
+          You’re learning how to manage and understand the emotional side of life.
+          You’re actually quite a sensitive and emotional person, yet that part of you feels foreign.
+          Understand that you’re on a different wavelength than most people.
+          You’re great with any career in which you can work alone for part of the time—research, science, data collecting, computers.
+          Yet you can also feel the pull of your more intuitive side and be drawn to the healing arts, metaphysical thought, and self-exploration.
+
+          When In Alignment, You Are:
+          Data-driven & analytical, refined mind, knowledge-driven, intuitive, wise, truth-seeker, spiritually centered.
+
+          When Out Of Alignment, You May Become:
+          Critical, obsessive, secretive, distrustful, pessimistic, intimidating, always “in your head” OR superficial, overly trusting, ignorant, easily frustrated.
+
+          The Message:
+
+          You’re here to be a Truth Seeker—your life is spent developing and acknowledging both the left/right brain continuum in yourself.
+          When you tap in to both your analytical brain and your intuitive brain, you’re at your most powerful.
+          You’re on an “internal journey” seeking to know who you really are—deep down at your core. You need “alone” time.
+          """)
 elif number == 8 or number == 80:
     print(""" 8 Life Path: The Powerhouse
           As an 8 Life Path, your purpose is to develop an empowered relationship with money, power, control, and authority.
@@ -96,7 +120,8 @@ elif number == 8 or number == 80:
 
           How can you embrace the fact that you’re meant to think big and be a financial success? As an 8, you’re destined to make a big splash in the world of money, power, control, and authority.
           Yet it may not be an easy dash to get there! You need to tap into your sense of personal power—one that could be tested from very early on in life.
-          Once you get a handle on that, you will begin to attract and create lasting wealth. But your path to riches won’t necessarily be linear. You may go up, down and all around before you find your formula for success.
+          Once you get a handle on that, you will begin to attract and create lasting wealth. But your path to riches won’t necessarily be linear.
+          You may go up, down and all around before you find your formula for success.
           Along the way, authority issues will need to be balanced.
           Be resilient. Focus on your goal and move toward it with savvy management, organization, fortitude, heart, and most of all, integrity.
 
@@ -111,7 +136,32 @@ elif number == 8 or number == 80:
           What you focus on with clear intent, integrity, and effort can magically manifest with amazing power.
           """)
 elif number == 9 or number == 90:
-    print("")
+    print(""" 9 Life Path: The Humanitarian
+          As a 9 Life Path, your purpose is to develop your spirituality, humanitarianism, creativity, wisdom, and integrity
+          These themes will be reoccurring issues throughout your life, as your Life Path number indicates what you’re evolving into, developing, aspiring toward, and learning about.
+          While you’ll display innate gifts and talents in these areas, you’ll also experience some challenging lessons that will guide you towards mastering your life’s purpose.
+
+          How can you best go with the flow of your creative and giving impulses? As a 9, you’re versatile and unique.
+          While you can be successful at virtually anything you feel passionate about, you may feel most fulfilled when serving a humanitarian cause—large or small.
+          Creative, compassionate and giving, it’s through blending your gifts of imagination with your spirit of service that you truly find your groove.
+          It’s merely a lack of concentration that can keep you from enjoying the success of your projected goals.
+          Your challenge lies in learning to ask for support instead of struggling alone or falling into martyrdom.
+          You’re naturally generous and more comfortable in the role of the giver, but your path involves learning how to receive.
+          At times, you may hold on to the past. Challenge yourself to surrender and master the fine art of letting go.
+
+          When In Alignment, You Are:
+          Humanitarian, compassionate, magnetic, charitable, romantic, creative, generous, idealistic
+
+          When Out of Alignment, You Can Be:
+          Resentful, unable to let go of grudes and toxic emotions, hostile, haughty, close-minded, submissive, emotionally unavailable, drifting, deceptive, lacking healthy boundaries
+
+          The Message:
+          With your divinely inspired creative approach, you are here to make a profound difference in the world.
+          Throughout your life, you may devour books and studies involving spirituality or psychology.
+          On a personal level, you’re learning how to express and understand your own deep (and sometimes confusing) feelings.
+          As you master and digest this information, avoid proselytizing.
+          Instead, work towards becoming an objective listener and empowering supporter of others on a similar path.
+          """)
 elif number == 11:
     print("")
 elif number == 22:
