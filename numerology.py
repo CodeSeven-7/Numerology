@@ -54,11 +54,93 @@ if number == 1 or number == 10:
           You’re meant to manifest your unique ideas in the world.
           """)
 elif number == 2 or number == 20:
-    print("test")
+    print(""" 2 Life Path: The Mediator
+          As a 2 Life Path, your purpose is to learn and express the power of love, harmony, balance, cooperation, and diplomacy.
+          These themes will be reoccurring issues throughout your life, as your Life Path number indicates what you’re evolving into, developing, aspiring toward, and learning about.
+          While you’ll display innate gifts and talents in these areas, you’ll also experience some challenging lessons that will guide you towards mastering your life’s purpose.
+
+          How can you find a career and create an intimate life where the group you’re a part of feels simpatico and symbiotic?
+          As a 2, you want to feel needed, loved, and to know that your contributions are respected and valued.
+          You have a giving, generous nature and are innately intuitive.
+          When your talents are used to serve the greater good of a group you blossom, so avoid career choices where you’re mostly working solo.
+          Your big heart allows you to engage in activities where you’re of service to others.
+          Act upon your diplomatic skills and be the “power behind the throne.”
+          And yet! You give and you give and you give some more, and then withdraw with resentment.
+          People-pleasing could undermine your goals and relationships if they aren’t kept in check.
+          One of your greatest lessons will be learning how to define yourself on your own terms—not through how others perceive you or think about you.
+          As a sensitive, supportive, and cooperative soul, you thrive in healthy partnerships, both in business and intimate relationships.
+
+          When in Alignment, You Are:
+          Sensitive, intuitive, supportive, detail-oriented, patient, cooperative, diplomatic
+
+          When Out of Alignment, You Can Become:
+          Resentful, narrow-minded, childish, manipulative, indecisive, self-centered, dependent, overly sensitive
+
+          The Message:
+          You flourish when serving the needs of a group and your knack for details gives you an incredible ability to make things happen behind the scenes.
+          Emotional sensitivity serves you best when you don’t take things personally.
+          Your amazing heart can be a blessing and curse.
+          Though innately conflict avoidant, you are a supremely gifted mediator and diplomat.
+          See the irony?
+          While you hate conflict, your gift is in resolving it—and you’re the master at it, even making it look easy.
+          """)
 elif number == 3 or number == 30:
-    print("")
+    print(""" 3 Life Path: The Communicator
+          As a 3 Life Path, your purpose is to develop creative self-expression, emotional sensitivity, joy, and inspired communication.
+          These themes will be reoccurring issues throughout your life, as your Life Path number indicates what you’re evolving into, developing, aspiring toward, and learning about.
+          While you’ll display innate gifts and talents in these areas, you’ll also experience some challenging lessons that will guide you towards mastering your life’s purpose.
+
+          How can you move through self-doubt and commit yourself to developing—and making money with—your amazing creative talents?
+          As a 3, many things come naturally to you; in fact, you might mistakenly assume that everyone has your gift of ease in this lifetime.
+          Yet not everyone can drink from the fountain of inspiration as readily as you, so cultivate patience for the rest of people on this planet!
+          The trick to utilizing your gift is to trust that you can make a living at it.
+          Drown out the naysayers or those who wish you’d choose a more “practical” path.
+          Though you may have a file folder of degrees and certifications, you could have a hard time committing to something specific.
+          There’s a risk of feeling scattered or lacking follow-through.
+          Ultimately, you’re here to embrace your creative self-expression, tap into your deep emotions while speaking your truth, and communicating clearly—with humor and joy.
+          You’re the consummate host and raconteur, entertaining everyone with your energetic personality, and dynamic (true life) stories.
+
+          When In Alignment, You Are:
+          Expressive, artistic, creative, communicative, joyful, witty, optimistic, intelligent
+
+          When Out Of Alignment, You May Become:
+          Superficial, emotionally volatile, inappropriate, prone to exaggeration or melancholia, self-doubting, inarticulate, fearful, insincere, inappropriate
+
+          The Message:
+          While you know that it’s best not to flit about and be a novice, you may also find it challenging to stay put develop expertise.
+          And yet, you’ll benefit from sticking to whatever you start and persevering.
+          Your biggest roadblocks? Extreme self-doubt, fear of criticism, and oftentimes sweepingly dramatic emotional highs and lows.
+          Despite this, you thrive in the spotlight—whether it’s a performance, entertainment, or any creative and communicative endeavor having to do with the spoken or written word.
+          """)
 elif number == 4 or number == 40:
-    print("")
+    print(""" 4 Life Path: The Teacher
+          As a 4 Life Path, your purpose is to develop systems and processes that bring you security and stability; you are naturally industrious and will enjoy working hard to achieve your goals.
+          These themes will be reoccurring issues throughout your life, as your Life Path number indicates what you’re evolving into, developing, aspiring toward, and learning about.
+          While you’ll display innate gifts and talents in these areas, you’ll also experience some challenging lessons that will guide you towards mastering your life’s purpose.
+
+          How can you pursue a career that you’re passionate about, not just one that will “pay the bills?”
+          As a 4, you ultimately seek a sense of stability and security.
+          Your work is extremely important to you, and yet you could go from job to job before you settle on your actual career path.
+          Since you think about life from a literal perspective, you thrive when you’re using your amazing process-oriented brain.
+          You’d make a superlative teacher, and you’re apt to excel in management.
+          An optimal systems person and a “master builder” all in one, work at thinking outside of your own (sometimes confining) box.
+          Following your true passion is all-important for you because you struggle with defaulting to the more mundane or practical paths rather than pursuing what you truly love.
+          Understanding the adage of “slow and steady wins the race,” you thrive when you know the rules, use your systems-building skills and have a sense of routine in your life.
+          You’re all about hard work and meeting goals. Spreading your vast knowledge to others will bring you great satisfaction.
+
+          When In Alignment, You Are:
+          Dependable, stable, productive, conservative, loyal, trustworthy, hardworking
+
+          When Out Of Alignment, You May Become:
+          Rigid, bulldozing, bossy, blunt, a martyr about work, unorganized, careless, distracted, idle, irresponsible
+
+          The Message:
+          You’re a hard worker, the one people always count on to get things done.
+          On the family front, you could be the rock for your relatives.
+          In this lifetime, you may have some difficult circumstances to work through with parents and children.
+          Work on developing flexibility—both mentally and physically—and breaking away from the trap of conventional thinking.
+          You’re also learning to come to terms with limitations, both real and perceived.
+          """)
 elif number == 5 or number == 50:
     print(""" 5 Life Path: The Freedom Seeker
           As a 5 Life Path, your purpose is to develop fearlessness, adventurousness, resilience, and the constructive use of freedom.
@@ -84,7 +166,31 @@ elif number == 5 or number == 50:
           Your mantra may as well be, “Don’t fence me in!”
           """)
 elif number == 6 or number == 60:
-    print("")
+    print(""" 6 Life Path: The Nurturer
+          As a 6 Life Path, your purpose is to develop nurturing, balanced responsibility, acceptance, service to others, and visionary pursuits.
+          These themes will be reoccurring issues throughout your life, as your Life Path number indicates what you’re evolving into, developing, aspiring toward, and learning about.
+          While you’ll display innate gifts and talents in these areas, you’ll also experience some challenging lessons that will guide you towards mastering your life’s purpose.
+
+          What are the best ways for you to key into your visionary capabilities and let go of your need for control?
+          As a 6, you’re a “big picture” kind of person. Ultimately, you’re meant to be your own boss. (Translation: You don’t like being told what to do!)
+          Pay close attention to other leaders and entrepreneurs, learning how to build your own business in an effective way.
+          As a lover of beauty, creativity is a forte, and you can be a natural entertainer.
+          Likewise, you’re also a natural counselor, capable of serving others deeply…and imaginatively!
+          A career in the justice field could also be enticing since you have a strong sense of values and ethics.
+          Home and family are your domain, so you might lean toward a path in domestic beautification or set up a business at your own residence.
+
+          When In Alignment, You Are:
+          Family-oriented, romantic, responsible, artistically creative, supportive, devoted, loving, sensible
+
+          When Out Of Alignment, You May Become:
+          Perfectionist, critical, idealistic to a fault, self-righteous, meddling, irresponsible, indulgent, non-committal, self-absorbed
+
+          The Message:
+          You’re here to balance your sense of responsibility and to provide loving acts of service with and for others.
+          You’re the “home and family” number and often thrive when working with justice-related issues, in the creative arts, or anywhere a sense of beauty is required.
+          If you manage your perfectionism, you’re a highly nurturing presence.
+          Lighten up on the need for control and learn to see the beauty in the “flaws” and to find the wisdom that comes from making mistakes.
+          """)
 elif number == 7 or number == 70:
     print(""" 7 Life Path: The Seeker
           As a 7 Life Path, your purpose is to develop your intuition, spirituality, trust, and openness, balanced against your desire for data-driven analysis
